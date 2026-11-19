@@ -1,6 +1,6 @@
 public class hello {
     void sum(int a , int b){
-        return a+B ;
+        return a+b ;
     }
 
     public static void main(String[] args) {
